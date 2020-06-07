@@ -11,6 +11,6 @@ This lab will walk you through the main basic steps to build a stance detection 
  You can use the script in simple_supervised_model.py to train model using content and network features.
         
         
- ### For the full access to the dataset please rfere to the work of 
+ ### For a full access to the dataset please refere to the work of 
 [1]Darwish, Kareem, et al. "Unsupervised user stance detection on twitter." Proceedings of the International AAAI Conference on Web and Social Media. Vol. 14. 2020.
 
