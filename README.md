@@ -3,7 +3,7 @@
 In this tutorial, you will learn how to get started with stance detection modeling using supervised and unsupervised algorithms. This tutorial contains snippets of scripts that will give you a preliminary idea of how to explore the dataset, run the scrip on the subset of the data.
 
 ##  Data exploration:
- You can use subset of Trump dataset [1] from Daatsetfolder. This data contains around 4000 rows labeled with [pro and anti] stance. 
+ You can use subset of Trump dataset [1] from Datset folder. This data contains around 4000 rows labeled with [pro and anti] stance. 
 
 ## Supervised stance detection:
  You can use the script in simple_supervised_model.py to train model using content and network features.
