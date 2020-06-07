@@ -5,7 +5,7 @@ In this tutorial, you will learn how to get started with stance detection modeli
 This lab will walk you through the main basic steps to build a stance detection model. To start with this tutorial, you will:
 
 ##  Data preparation:
- You can use subset of Trump dataset [1] from Daatsetfolder. This data contains around 4000 rows labeled with pro, anti stance. 
+ You can use subset of Trump dataset [1] from Daatsetfolder. This data contains around 4000 rows labeled with [pro and anti] stance. 
 
 ## Supervised stance detection
  You can use the script in simple_supervised_model.py to train model using content and network features.
