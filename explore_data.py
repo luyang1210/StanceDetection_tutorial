@@ -5,13 +5,6 @@ Created on Sat Jun  6 10:57:12 2020
 @author: Abeer
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  6 10:29:19 2020
-
-@author: Abeer
-"""
-
 from os import path
 import pandas as pd
 import pdb
