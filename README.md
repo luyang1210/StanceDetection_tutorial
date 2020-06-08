@@ -6,7 +6,7 @@ In this tutorial, you will learn how to get started with stance detection modeli
  You can use subset of Trump dataset [1] from *Dataset* folder. This data contains around 4200 rows labeled with [pro and anti] stance. The training and testing file can be accessed from *Dataset* folder.
 
 ## Supervised stance detection:
- You can use the script in simple_supervised_model.py to train model using content and network features.
+ You can use the script in simple_supervised_model.py to train the stance detection model and explore with using content and network features.
         
         
  #### For a full access to the dataset please refere to the work of 
